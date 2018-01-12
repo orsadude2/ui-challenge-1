@@ -1,8 +1,7 @@
-body {
-    width: 90%;
-    margin: 0 auto;
+.a {
+    border: 5px saddlebrown;
+
 }
-#a {
-    border-width: 2px;
-    
+#b {
+    border: 5px saddlebrown;
 }
